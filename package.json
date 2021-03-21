@@ -1,0 +1,11 @@
+{
+  "name": "publish-test-package",
+  "version": "1.0.1",
+  "description": "First Create Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thet Pai",
+  "license": "ISC"
+}
